@@ -1,5 +1,5 @@
-## Hi, I'm schanikk 👋
----
+## Hi, I'm schanikk
+
 Master's student and working student based in Germany. I build things at the intersection of **NLP, machine learning and software engineering**: mostly topic modeling, LLM-based evaluation and tools that help people work with text.
 
 - 🔭 I'm currently working on several projects. Sadly, I pivot a lot and need to focus more on a single project.
